@@ -341,7 +341,7 @@ a = +a;
  例子：  
 ```javascript  
 var a = 10;  
-a = a;  
+a = -a;  
 ```
 
 #### 自增  
